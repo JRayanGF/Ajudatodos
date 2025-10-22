@@ -1,4 +1,4 @@
-# Site de Ajuda Animal
+<img width="357" height="222" alt="image" src="https://github.com/user-attachments/assets/1d00f850-b50a-4abc-aa5c-6a2b2859a190" /># Site de Ajuda Animal
 
 O **AjudaTodos** é um projeto desenvolvido para promover a conscientização e o apoio a animais em situação de vulnerabilidade.  
 A proposta é conectar pessoas dispostas a ajudar, adotar ou divulgar campanhas de resgate, unindo tecnologia e empatia.
@@ -18,28 +18,12 @@ O projeto foi desenvolvido com base em ferramentas modernas e de alta performanc
 ---
 
 ## Estrutura do Projeto
+```Markdown
 
-Site-de-Ajuda-Animal/
-├── index.html
-├── package.json
-├── vite.config.ts
-├── tsconfig.json
-├── src/
-│ ├── main.tsx
-│ ├── App.tsx
-│ ├── index.css
-│ ├── components/
-│ │ ├── Header.tsx
-│ │ ├── HeroSection.tsx
-│ │ ├── AboutSection.tsx
-│ │ ├── ProjectSection.tsx
-│ │ ├── SolutionsSection.tsx
-│ │ ├── Footer.tsx
-│ │ └── ui/ (componentes reutilizáveis)
-│ └── Attributions.md
-└── README.md
+## Estrutura do Projeto
 
-
+Site-de-Ajuda-Animal/ ├── index.html ├── package.json ├── vite.config.ts ├── tsconfig.json ├── src/ │ ├── main.tsx │ ├── App.tsx │ ├── index.css │ └── componentes/ │ ├── Cabeçalho.tsx │ ├── HeroSection.tsx │ ├── AboutSection.tsx │ ├── ProjectSection.tsx │ ├── SolutionsSection.tsx │ ├── Rodapé.tsx │ └── UI/ (componentes reutilizáveis) ├── Attributions.md └── README.md
+```
 ---
 
 ## Como Executar o Projeto
@@ -47,29 +31,31 @@ Site-de-Ajuda-Animal/
 Clone o repositório:
 ```bash
 git clone https://github.com/JRayanGF/Ajudatodos.git
+```                        
 
 
 Acesse a pasta do projeto:
 ```bash
 cd Ajudatodos
-
+```
 
 Instale as dependências:
-
+```bash
 npm install
-
+```
 
 Inicie o servidor de desenvolvimento:
-
+```bash
 npm run dev
-
+```
 
 Abra o navegador e acesse:
-
+```bash
 http://localhost:5173
-
+```
 
 Build para Produção
 Para gerar a versão otimizada do site:
-
+```bash
 npm run build
+```
