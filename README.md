@@ -17,15 +17,6 @@ O projeto foi desenvolvido com base em ferramentas modernas e de alta performanc
 
 ---
 
-## Estrutura do Projeto
-```Markdown
-
-## Estrutura do Projeto
-
-Site-de-Ajuda-Animal/ ├── index.html ├── package.json ├── vite.config.ts ├── tsconfig.json ├── src/ │ ├── main.tsx │ ├── App.tsx │ ├── index.css │ └── componentes/ │ ├── Cabeçalho.tsx │ ├── HeroSection.tsx │ ├── AboutSection.tsx │ ├── ProjectSection.tsx │ ├── SolutionsSection.tsx │ ├── Rodapé.tsx │ └── UI/ (componentes reutilizáveis) ├── Attributions.md └── README.md
-```
----
-
 ## Como Executar o Projeto
 
 Clone o repositório:
