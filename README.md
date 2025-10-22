@@ -1,11 +1,15 @@
+AjudaTodos
 
-  # Site de Ajuda Animal
+O AjudaTodos é um site voltado para conectar pessoas dispostas a ajudar animais em situação de vulnerabilidade.  
+A plataforma tem como objetivo facilitar **adoções, doações e divulgação de campanhas de resgate**, tornando a solidariedade mais acessível a todos.
 
-  This is a code bundle for Site de Ajuda Animal. The original project is available at https://www.figma.com/design/xDcqmoL5ZE2NzfMvwFEjde/Site-de-Ajuda-Animal.
 
-  ## Running the code
+Demonstração
+Acesse o site:  
+[https://jrayanfg.github.io/Ajudatodos](https://jrayanfg.github.io/Ajudatodos)
 
-  Run `npm i` to install the dependencies.
+Tecnologias Utilizadas
 
-  Run `npm run dev` to start the development server.
-  
+- **HTML5** → estrutura da página  
+- **CSS3** → estilos e design responsivo  
+- **JavaScript** → interatividade e funcionalidades dinâmicas  
