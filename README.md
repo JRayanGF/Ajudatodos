@@ -39,56 +39,37 @@ Site-de-Ajuda-Animal/
 │ └── Attributions.md
 └── README.md
 
-yaml
-Copiar código
 
 ---
 
 ## Como Executar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/JRayanGF/Ajudatodos.git
-Acesse a pasta do projeto:
+Clone o repositório:
+```bash
+git clone https://github.com/JRayanGF/Ajudatodos.git
 
-bash
-Copiar código
+
+Acesse a pasta do projeto:
+```bash
 cd Ajudatodos
+
+
 Instale as dependências:
 
-bash
-Copiar código
 npm install
+
+
 Inicie o servidor de desenvolvimento:
 
-bash
-Copiar código
 npm run dev
+
+
 Abra o navegador e acesse:
 
-arduino
-Copiar código
 http://localhost:5173
+
+
 Build para Produção
 Para gerar a versão otimizada do site:
 
-bash
-Copiar código
 npm run build
-Os arquivos finais estarão disponíveis na pasta dist/.
-
-Deploy
-O projeto pode ser hospedado facilmente em:
-
-Vercel
-
-Netlify
-
-GitHub Pages (após o build com Vite)
-
-Objetivo
-Criar um ambiente digital acolhedor que inspire o público a praticar a empatia e a adoção responsável, utilizando o poder da tecnologia e do design moderno.
-
-Licença
-Este projeto está sob a Licença MIT.
-Sinta-se à vontade para usar, modificar e compartilhar, mantendo os devidos créditos.
