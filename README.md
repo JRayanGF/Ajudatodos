@@ -1,5 +1,3 @@
-<img width="357" height="222" alt="image" src="https://github.com/user-attachments/assets/1d00f850-b50a-4abc-aa5c-6a2b2859a190" /># Site de Ajuda Animal
-
 O **AjudaTodos** é um projeto desenvolvido para promover a conscientização e o apoio a animais em situação de vulnerabilidade.  
 A proposta é conectar pessoas dispostas a ajudar, adotar ou divulgar campanhas de resgate, unindo tecnologia e empatia.
 
